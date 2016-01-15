@@ -4,6 +4,13 @@
 /* ALL RIGHTS RESERVED, COMMERCIAL USAGE STRICTLY PROHIBITED */
 /* WRITTEN BY R. M. SUPNIK */
 
+
+/*
+ *Fork created for a port to the Nintendo 3DS, by davidlc and Monado_III @ gbaTemp.net
+ *Jaunary 2016
+ *
+ */
+
 #include "funcs.h"
 #include "vars.h"
 
